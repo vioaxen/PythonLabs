@@ -1,6 +1,6 @@
 # Source data
 lst_A = [number for number in range(11)]
-lst_B = [chr(letter) for letter in range(97, 105)]
+lst_B = [chr(letter) for letter in range(ord('a'), ord('i'))]
 
 # Point a
 lst_C = []
